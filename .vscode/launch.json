@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kyoma/Library/CloudStorage/GoogleDrive-ksuzuki@ice.iit.tsukuba.ac.jp/マイドライブ/講習会/sketch_VL53L1X_btservo",
+      "program": "/Users/kyoma/Library/CloudStorage/GoogleDrive-ksuzuki@ice.iit.tsukuba.ac.jp/マイドライブ/講習会/sketch_VL53L1X_btservo/build/Debug/outDebug"
+    }
+  ]
+}
